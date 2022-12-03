@@ -17,5 +17,6 @@ public class Week1
         System.out.println( "SDLC");
         System.out.println( "STLC");
         System.out.println( "******************");
+        System.out.println( "connecting to Git hub");
     }
 }
